@@ -1,8 +1,7 @@
 # assignment-2-comp-20008-group-76
-assignment-2-comp-20008-group-76 created by GitHub Classroom
-<name> <id>
-Tuan Phong Vu 1266265
-Ngoc Duy Tran 1156724
+Collaborative Work Of:
+Tuan Phong Vu 
+Ngoc Duy Tran 
 Thanh Chanh
 James Chanmin Lee
   
