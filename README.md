@@ -1,4 +1,5 @@
-# assignment-2-comp-20008-group-76
+# Commingled_Waste
+
 Collaborative Work Of:
 Tuan Phong Vu 
 Ngoc Duy Tran 
